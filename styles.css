@@ -1,0 +1,85 @@
+.top-bar{
+    text-align: right;
+    padding: 5px;
+    padding-right: 20px;
+}
+
+.logo{
+    width: 272px;
+    padding-top: 108px
+}
+
+.search-div{
+    height: 44px;
+    width: 482px;
+    border-radius: 24px;
+    box-shadow: none;
+    border: 1px solid #dfe1e5;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search{
+    width: 425px;
+    height: 32px;
+    outline: none;
+    margin-top: 5px;
+    border: none;
+    margin-left: 15px;
+
+}
+.record{
+    display: inline-block;
+    height: 30;
+    margin-top: 5px;
+}
+.footer{
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+.padding{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #e4e4e4;
+
+}
+#f1{
+    margin-left: 10px;
+}
+
+div>p{
+    margin-left: 10px;
+}
+
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+.button-log{
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+   color: #ffffff;
+   border-radius: 3px;
+   width: 95px;
+   height: 25px;
+
+}
+
+.button-search{
+    background-color: #efefef;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: #2b2d2f;
+    width: 140px;
+    margin-top: 20px;
+}
+
+.app-selector{
+    height: 20px;
+    vertical-align: middle;
+}
